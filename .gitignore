@@ -1,0 +1,9 @@
+# Fortune-cookie entry — local leftovers only
+/output/
+fortune-draft-*.md
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+node_modules/
+.cache/
